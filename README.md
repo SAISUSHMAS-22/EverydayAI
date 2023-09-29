@@ -1,1 +1,1 @@
-# EverydayAI
+# Everyday AI
